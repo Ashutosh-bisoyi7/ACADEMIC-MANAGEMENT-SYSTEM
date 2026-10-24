@@ -1,0 +1,29 @@
+1. Administration Department
+Manage users, roles, permissions, system settings, and college-wide records.
+
+2. Admission Department
+Applications, document verification, admission approval, and student registration.
+
+3. Student manage Department
+Student profiles, academic records, notices, complaints, and student activities.
+
+4. Academic Department
+Departments, courses, subjects, semesters, academic sessions, and faculty assignments.
+
+5. Attendance Department
+Student and faculty attendance, attendance percentages, and reports.
+
+6. Examination Department
+Exam schedules, marks entry, grades, results, and mark sheets.
+
+7. Accounts & Finance Department
+Fee structures, payments, receipts, outstanding dues, and financial reports.
+
+8. Library Department
+Book inventory, issue/return, fines, librarian accounts, and library reports. Integrate your existing Library Management System here.
+
+9. Hostel Department
+Hostel rooms, room allocation, residents, and hostel fees.
+
+10. Transport Department
+Vehicles, routes, student transport assignments, and transport fees
